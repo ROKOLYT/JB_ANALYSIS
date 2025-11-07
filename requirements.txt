@@ -1,0 +1,10 @@
+pandas
+matplotlib
+numpy
+scipy
+
+# Jupyter notebook libraries
+ipykernel
+notebook
+Jupyter
+jupyterhub
